@@ -1,7 +1,7 @@
 # Voice-Assistant-using-python
 Simple and interactive Voice Assistant using Python.
 
-The following modules are needed to run the program:
+The modules that are needed to run the program are as follows:
 
 1.Speech Recognition.
 2. pyttsx3
